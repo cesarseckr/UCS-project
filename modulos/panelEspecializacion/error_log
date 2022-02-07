@@ -1,0 +1,15 @@
+[20-Sep-2019 15:02:48 America/Mexico_city] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php:35
+Stack trace:
+#0 /home4/ucsed3rl/public_html/modulos/panelAdmin4/calificaciones.php(55): include()
+#1 {main}
+  thrown in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php on line 35
+[20-Sep-2019 15:03:00 America/Mexico_city] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php:35
+Stack trace:
+#0 /home4/ucsed3rl/public_html/modulos/panelAdmin4/calificaciones.php(55): include()
+#1 {main}
+  thrown in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php on line 35
+[20-Sep-2019 15:03:44 America/Mexico_city] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on boolean in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php:35
+Stack trace:
+#0 /home4/ucsed3rl/public_html/modulos/panelAdmin4/calificaciones.php(55): include()
+#1 {main}
+  thrown in /home4/ucsed3rl/public_html/modulos/panelAdmin4/php/tabla_calificaciones.php on line 35
